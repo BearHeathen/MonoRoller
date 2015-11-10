@@ -1,0 +1,5 @@
+/home/gloomshroud/Desktop/Development/Projects/C#/MonoRoller/MonoRoller/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/gloomshroud/Desktop/Development/Projects/C#/MonoRoller/MonoRoller/bin/Debug/MonoRoller.exe.mdb
+/home/gloomshroud/Desktop/Development/Projects/C#/MonoRoller/MonoRoller/bin/Debug/MonoRoller.exe
+/home/gloomshroud/Desktop/Development/Projects/C#/MonoRoller/MonoRoller/obj/x86/Debug/MonoRoller.exe
+/home/gloomshroud/Desktop/Development/Projects/C#/MonoRoller/MonoRoller/obj/x86/Debug/MonoRoller.exe.mdb
